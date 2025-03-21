@@ -24,7 +24,7 @@ Built using **Spring Boot**, the backend follows a **microservices architecture*
 - **Database:** MySQL
 - **Security:** Spring Security, JWT Authentication
 - **ORM:** Hibernate
-- 
+
 ## API Endpoints
 | Method | Endpoint | Description |
 |--------|---------|-------------|
