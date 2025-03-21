@@ -46,7 +46,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 ```sh
 git clone https://github.com/lavenia13/BackendJFSDProject.git
-cd handloom-marketplace-backend
+cd BackendJFSDProject
 ```
 
 ### Configure Database
