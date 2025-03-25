@@ -25,17 +25,6 @@ Built using **Spring Boot**, the backend follows a **microservices architecture*
 - **Security:** Spring Security, JWT Authentication
 - **ORM:** Hibernate
 
-## API Endpoints
-| Method | Endpoint | Description |
-|--------|---------|-------------|
-| POST | /api/auth/register | Register a new user |
-| POST | /api/auth/login | Authenticate user and get JWT token |
-| GET | /api/products | Get all products |
-| POST | /api/products | Add a new product (Artisan only) |
-| GET | /api/orders | Get user orders (Buyer only) |
-| POST | /api/orders | Place a new order |
-| GET | /api/admin/users | View all registered users (Admin only) |
-
 ## Installation & Setup
 ### Prerequisites
 Ensure you have the following installed:
