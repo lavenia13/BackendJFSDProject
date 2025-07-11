@@ -1,7 +1,7 @@
 # Handloom Fashion Marketplace - Backend
 
 ## Overview
-The **Handloom Fashion Marketplace Backend** is a robust and scalable REST API designed to power the platform. It enables seamless interactions between users, products, orders, and payments while ensuring data security and efficient processing
+The **Handloom Fashion Marketplace Backend** is a robust and scalable REST API designed to power the platform. It enables seamless interactions between users, products, orders, and payments while ensuring data security and efficient processing of information.
 
 Built using **Spring Boot**, the backend follows a **microservices architecture** and integrates with **MySQL** for data storage. It supports role-based authentication and authorization for **Admin, Artisan and Buyer** users.
 
